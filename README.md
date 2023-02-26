@@ -1,13 +1,13 @@
-# Veronica's CV
+# Veronica's CV 📋
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Repo: https://github.com/veronicajaimin/myresume
 Live Demo: https://veronicajaimin.github.io/myresume/
 
-## References
+## References 📚
 
-- Resume design and implementation was inspired from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
+[x] Resume design and implementation was inspired from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
 
 - ReactJS online tutorials:
   - ReactJS [main concept](https://reactjs.org/docs/getting-started.html)
@@ -22,7 +22,7 @@ Live Demo: https://veronicajaimin.github.io/myresume/
   - [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI&t=200s)
 
 - Deployment made easy with these guidelines:
-  - [Deploying React apps to GitHub Pages](https://blog.logrocket.com/deploying-react-apps-github-pages/#:~:text=The%20simplicity%20of%20deploying%20a,own%20custom%20domain%20or%20subdomain).
+  - [Deploying React apps to GitHub Pages](https://blog.logrocket.com/deploying-react-apps-github-pages/#:~:text=The%20simplicity%20of%20deploying%20a,own%20custom%20domain%20or%20subdomain)
   - [How To Deploy A React App To Github Pages (Simple)](https://www.youtube.com/watch?v=Q9n2mLqXFpU)
 
 
