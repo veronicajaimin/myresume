@@ -7,7 +7,7 @@ Live Demo: https://veronicajaimin.github.io/myresume/
 
 ## References 📚
 
-[x] Resume design and implementation was inspired from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
+[X] Resume design and implementation was inspired from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
 
 - ReactJS online tutorials:
   - ReactJS [main concept](https://reactjs.org/docs/getting-started.html)
