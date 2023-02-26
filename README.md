@@ -7,7 +7,7 @@ Live Demo: https://veronicajaimin.github.io/myresume/
 
 ## References
 
-- Some Design and Implementation Ideas are taken from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
+- Design and implementation inspired from [hafizjavaid/CV-Creator-React-Version](https://github.com/hafizjavaid/CV-Creator-React-Version).
 
 
 
