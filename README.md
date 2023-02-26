@@ -16,7 +16,7 @@ Live Demo: https://veronicajaimin.github.io/myresume/
   - [ReactJS Tutorial - 17 - List Rendering](https://www.youtube.com/watch?v=5s8Ol9uw-yM&t=442s)
   - [Reactjs 16 tutorial #18 Handle Nested Object with Map](https://www.youtube.com/watch?v=AiTS9YMd6Is)
 
-- Layout design ideas:
+- Layout & design ideas:
   - [W3Schools How To](https://www.w3schools.com/howto/)
   - [CSS to set A4 paper size](https://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size)
   - [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI&t=200s)
